@@ -1,6 +1,0 @@
-@font-face {
-    font-family: "Tipografia";
-    src: url("Nunito-VariableFont_wght.ttf") format("truetype");
-    font-weight: 100;
-}
-/*esta es la forma de definir nuestras propias tipografias, haciendo link a este archivo desde el index de html*/
